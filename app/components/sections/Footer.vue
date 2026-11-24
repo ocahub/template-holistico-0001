@@ -44,5 +44,6 @@ const insta = computed(() => company.values.value.instagram)
       </nav>
       <p>© {{ new Date().getFullYear() }} {{ name }} · <RhText path="note" :value="p.note" ph="Linha final" /></p>
     </div>
+    <div style="text-align:center;padding:10px 16px;font-size:.8rem;opacity:.85"><RhCookiePreferences /></div>
   </footer>
 </template>
