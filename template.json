@@ -4,6 +4,7 @@
   "version": "1.1.0",
   "description": "Loja holística com mandala dourada, títulos em letra antiga e vitrine de produtos e sessões. Para tarot, astrologia e bruxaria natural.",
   "cover": "preview.png",
+  "screenshot": "preview-full.jpg",
   "modules": [
     "sales:CreateProduct"
   ],
